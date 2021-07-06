@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.first_second{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: chocolate;
+}
+.Buttom{
+    text-decoration: none;
+    background-image: linear-gradient(chocolate,red);
+    padding: 10px 30px;
+    border-radius:20px;
+}
+p{
+    font-size:20px;
+}
+.background{
+   background-image: url(back.png);
+   background-repeat: no-repeat;
+  margin: 0px;
+}
