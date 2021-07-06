@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.first_second{
+.fast_second_third_bonus{
     display: flex;
     padding: 20px;
     margin: 20px;
@@ -51,4 +51,8 @@ p{
 }
 #color{
     color: rgb(70, 53, 53);
+}
+.extra{
+    padding: 20px 30px;
+    
 }
